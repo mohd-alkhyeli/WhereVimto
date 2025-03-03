@@ -1,7 +1,34 @@
-WhereVimto\Library
-/WhereVimto/Library
-WhereVimto/Assembly-CSharp.csproj
-WhereVimto/Assembly-CSharp-Editor.csproj
-/WhereVimto/Logs
-/WhereVimto/Temp
-WhereVimto/WhereVimto.sln
+# Unity auto-generated folders
+/WhereVimto/Library/
+/WhereVimto/Temp/
+/WhereVimto/Obj/
+/WhereVimto/Logs/
+/WhereVimto/Build/
+/WhereVimto/UserSettings/
+
+# Ignore IDE and build files
+*.csproj
+*.sln
+*.suo
+*.user
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+
+# Ignore crash reports and debug logs
+/WhereVimto/CrashReport/
+*.log
+
+# Ignore local Unity settings
+/WhereVimto/MemoryCaptures/
+/WhereVimto/.vsconfig
+
+# Optional: If using Git LFS, track large files
+*.psd filter=lfs
+*.png filter=lfs
+*.jpg filter=lfs
+*.fbx filter=lfs
+*.wav filter=lfs
+*.mp3 filter=lfs
+*.mp4 filter=lfs

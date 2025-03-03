@@ -3,7 +3,5 @@ WhereVimto\Library
 WhereVimto/Assembly-CSharp.csproj
 WhereVimto/Assembly-CSharp-Editor.csproj
 /WhereVimto/Logs
-/WhereVimto/Packages
 /WhereVimto/Temp
-/WhereVimto/UserSettings
 WhereVimto/WhereVimto.sln

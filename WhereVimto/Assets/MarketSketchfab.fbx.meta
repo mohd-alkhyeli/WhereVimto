@@ -3,7 +3,37 @@ guid: 136945baf788ce94a84e1766811edb36
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Ground
+    second: {fileID: 2100000, guid: c56e165821aaa65469d086b4cffa3374, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_MarketPannel
+    second: {fileID: 2100000, guid: b87d19e1b310c104087772a69dab2996, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_SUpermarket
+    second: {fileID: 2100000, guid: 501533e89ef6c434fad10806f1d6ddd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Wall
+    second: {fileID: 2100000, guid: d1cbfa701d1ae9a48b621fb298a4cd94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_wall_Door
+    second: {fileID: 2100000, guid: f4e02658864070a45979f49a8f59551e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_wall_windows
+    second: {fileID: 2100000, guid: b9cac4837b227564294405f35ca2c386, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

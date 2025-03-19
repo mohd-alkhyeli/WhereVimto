@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1e22ef20d47d54487a606eb5bc7011a8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127874
+  packageName: Modern Vending Machine (PBR)
+  packageVersion: 1.0
+  assetPath: Assets/Modern Vending Machine/Modern Vending Machine.prefab
+  uploadId: 267889

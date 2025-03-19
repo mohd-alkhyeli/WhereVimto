@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e1ab55b253f274934858726c46593662
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127874
+  packageName: Modern Vending Machine (PBR)
+  packageVersion: 1.0
+  assetPath: Assets/Modern Vending Machine/Materials/Modern Vending Machine Front
+    (Water).mat
+  uploadId: 267889

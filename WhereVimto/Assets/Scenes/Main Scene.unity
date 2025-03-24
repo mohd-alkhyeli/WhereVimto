@@ -46798,6 +46798,10 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 1054473318560909627, guid: a84a6dbbf7c5efc4a8e075420d3e5ba9, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1130896017020765935, guid: a84a6dbbf7c5efc4a8e075420d3e5ba9, type: 3}
       propertyPath: m_Name
       value: Supermarket TINY

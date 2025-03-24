@@ -32,3 +32,4 @@
 *.wav filter=lfs
 *.mp3 filter=lfs
 *.mp4 filter=lfs
+WhereVimto/UserSettings/EditorUserSettings.asset

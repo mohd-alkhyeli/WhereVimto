@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GAME DEVELOPER\\Documents\\GitHub\\WhereVimto\\WhereVimto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98905F8F-9DC4-6FE9-2397-338EDD93BAC3}|Assembly-CSharp.csproj|c:\\users\\game developer\\documents\\github\\wherevimto\\wherevimto\\assets\\worldmaterialsfree\\shaders\\worldmatfree.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{98905F8F-9DC4-6FE9-2397-338EDD93BAC3}|Assembly-CSharp.csproj|solutionrelative:assets\\worldmaterialsfree\\shaders\\worldmatfree.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorldMatFree.shader",
+              "DocumentMoniker": "C:\\Users\\GAME DEVELOPER\\Documents\\GitHub\\WhereVimto\\WhereVimto\\Assets\\WorldMaterialsFree\\Shaders\\WorldMatFree.shader",
+              "RelativeDocumentMoniker": "Assets\\WorldMaterialsFree\\Shaders\\WorldMatFree.shader",
+              "ToolTip": "C:\\Users\\GAME DEVELOPER\\Documents\\GitHub\\WhereVimto\\WhereVimto\\Assets\\WorldMaterialsFree\\Shaders\\WorldMatFree.shader",
+              "RelativeToolTip": "Assets\\WorldMaterialsFree\\Shaders\\WorldMatFree.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-03-27T07:17:21.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
